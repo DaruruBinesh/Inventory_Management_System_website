@@ -2,6 +2,6 @@
 Inventory Management System Website
 
 
--->the Admin account Detials :
+--> Admin account Detials :
 * User ID : admin
 * Password: test@123
